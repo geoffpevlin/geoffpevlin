@@ -7,7 +7,7 @@
 
 ```yaml
 const geoffPevlin = {
-  job: "College Instructor of Business & Digital Content Creation",
+  job: "Business & Digital Content Creation Instructor",
   employer: "College of the North Atlantic",
   location: "St. John's, NL",
   education:
