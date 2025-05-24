@@ -12,6 +12,7 @@ const geoffPevlin = {
   location: "St. John's, NL",
   education:
     [
+      "Bachelor of Post-secondary Education",
       "Diploma in Adult Learning and Teaching Innovation",
       "Self-taught Software Development", 
       "Diploma in Graphic Design",
